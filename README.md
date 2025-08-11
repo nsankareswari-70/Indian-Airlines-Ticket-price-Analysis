@@ -17,5 +17,10 @@ Now the data looks clean - Hit the close and load button to bring the data to Ex
 To find the cheapest provider to fly from Delhi to Mumbai - Non-stop flights, I used a Pivot table.
 ![img alt](https://github.com/nsankareswari-70/Indian-Airlines-Ticket-price-Analysis/blob/73aa10e91be08c62e20768b4c7b2d2c9d5679b66/ex117.png)
 
+Findings:
+
+From this Pivot table "Go First" provides the cheapest price - 5954
+
+
 
 
