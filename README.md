@@ -12,5 +12,7 @@ Easy way to do this is - Keep top rows option in excel
 
 ![img alt](https://github.com/nsankareswari-70/Indian-Airlines-Ticket-price-Analysis/blob/cdbe444a7c896bab5311ff650ce670f865666248/ex116.png)
 
+Now the data looks clean - Hit the close and load button to bring the data to Excel for Analysis.
+
 
 
