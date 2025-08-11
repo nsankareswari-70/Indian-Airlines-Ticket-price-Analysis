@@ -10,5 +10,7 @@ Source File : From Kaggle.com
 Easy way to do this is - Keep top rows option in excel
 ![img alt](https://github.com/nsankareswari-70/Indian-Airlines-Ticket-price-Analysis/blob/cdbe444a7c896bab5311ff650ce670f865666248/ex115.png)
 
+![img alt](https://github.com/nsankareswari-70/Indian-Airlines-Ticket-price-Analysis/blob/cdbe444a7c896bab5311ff650ce670f865666248/ex116.png)
+
 
 
